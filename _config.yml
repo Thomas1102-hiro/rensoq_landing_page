@@ -38,12 +38,12 @@ features                                  :
     description                           : iPhone,iPad対応アプリ（Android版のリリースは現在未定）。直感で答えられるようなスタイルですので、バスの待ち時間や寝る前などはもちろん、一定時間を決めて集中して学習することもできます。あなたの学習スタイルに合わせて、チャレンジしてみましょう。
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 高校化学の各単元別にクイズを用意。
+    description                           : 高校化学の基礎である「粒子の結合・結晶構造」はもちろん、受験前の限られた期間で知識習得が必要とされる「芳香族炭化水素」まで、幅広い単元を用意（一部制作製作中の単元は除く）。苦手な単元を集中して学習したり、テスト範囲を全体的に復習するなど、自分にあった使い方ができます。
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : ５種類のクイズで、いろんな角度から知識が身につく
+    description                           : いわゆる○×クイズのような正誤問題から、組み合わせ問題、一択問題、マルチ選択問題、空欄補充問題を用意。学習したばかりの単元は正誤問題を重点的に学習したり、力をつけたい単元は５種類全てチャレンジしてみるのもいいかもしれません。
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
