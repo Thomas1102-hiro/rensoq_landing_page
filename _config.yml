@@ -51,15 +51,15 @@ features                                  :
     fontawesome_icon_name                 : sync
 
   - title                                 : 全国ランキングで、全国の化学学習ユーザと切磋琢磨しよう。
-    description                           : ただクイズを解くのもいいですが、スコアのウィークリーランキングシステムも搭載していますので、日々の学習へのモチベーションになるかもしれません。トップランクを獲得したり、一定の好成績を残したユーザにはちょっとしたお楽しみや特典を用意。
+    description                           : ただクイズを解くのもいいですが、スコアのウィークリーランキングシステムも搭載していますので、積極的に上位を狙ってみましょう。日々の学習へのモチベーションになるかもしれません。トップランクを獲得したり、一定の好成績を残したユーザにはちょっとしたお楽しみや特典を用意しています。
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : ライバル登録システムも搭載！近しい友人を登録すれば、お互い励みになるかも。
+    description                           : ランキングで競いあったユーザをフォローして、ライバル登録することもできます。もちろん毎日顔をあわせる友人も誘って登録すれば、彼らの学習記録があなたの学習の励みになるかもしれません。
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : 調整中２
+    description                           : 調整中２
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Social Links
