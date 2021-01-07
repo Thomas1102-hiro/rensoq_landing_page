@@ -62,12 +62,12 @@ features                                  :
     description                           : 調整中２
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : リアルタイムで通知を受け取れます。
+    description                           : 通知を受け取るようにすれば、新しいクイズが追加されたときはもちろん、ランキングに変動があったときや、ライバルの学習記録があなたを抜いたときなど、リアルタイムで必要な通知を受け取れます。
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : クイズは定期的に追加！
+    description                           : クイズは定期的に追加していきます。突然新しいクイズに出会ったときは、力試しのつもりでチャレンジしてみましょう。公式ツイッター「高校化学ChemQuiz」でも定期的に情報配信していますので、チェックしてみてくださいね。
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
