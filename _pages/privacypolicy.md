@@ -8,22 +8,11 @@ include_in_header: false
 Jan 1 2021
 
 # プライバシーポリシー
-<!-- Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more. -->
-
-<!-- **Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy. -->
 
 <br>
 
 ## 1.0 情報を取得するアプリ提供者の名称
 ChemQuiz開発チーム YAMASHITA Hiroyuki
-
-<!-- ### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard. -->
 
 <br>
 
@@ -65,29 +54,23 @@ Menacingly much walrus far together derisive falcon the toneless unceremoniously
 <p>・外部サービスのプライバシー設定により利用者が連携先に開示を認めた情報</p>
 <!-- /wp:paragraph -->
 
-<!-- ### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+<br>
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. | -->
+## 3.0 取得方法
+<!-- wp:paragraph -->
+<p>・利用者による提供：メールアドレス、お問い合わせ内容、外部サービスで利用者が利用するID</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>・自動取得：携帯端末識別子、OSが提供する広告ID、OSのバージョン、携帯端末の機種名、利用者のアクションに関する情報、外部サービスのプライバシー設定により利用者が連携先に開示を認めた情報</p>
+<!-- /wp:paragraph -->
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 4.0 利用目的の特定・明示
+<!-- wp:table {"hasFixedLayout":true,"className":"is-style-regular"} -->
+<figure class="wp-block-table is-style-regular"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">項目</th><th class="has-text-align-center" data-align="center">利用目的</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">メールアドレス</td><td class="has-text-align-center" data-align="center">ステータスの保存・引継ぎ<br>マーケティング調査・統計・分析<br>お問い合わせ対応</td></tr><tr><td class="has-text-align-center" data-align="center">お問い合わせ内容</td><td class="has-text-align-center" data-align="center">ステータスの保存・引継ぎ<br>マーケティング調査・統計・分析<br>アプリの改善<br>お問い合わせ対応</td></tr><tr><td class="has-text-align-center" data-align="center">外部サービスで利用者が利用するID</td><td class="has-text-align-center" data-align="center">ステータスの保存・引継ぎ<br>マーケティング調査・統計・分析<br>お問い合わせ対応</td></tr><tr><td class="has-text-align-center" data-align="center">携帯端末識別子（UUID、UIID、IMEI、MACアドレス）</td><td class="has-text-align-center" data-align="center">ユーザー認証<br>ユーザーへの通知<br>ステータスの保存・引継ぎ<br>広告効果測定<br>広告配信<br>マーケティング調査・統計・分析<br>アプリの改善<br>お問い合わせ対応</td></tr><tr><td class="has-text-align-center" data-align="center">OSが提供する広告ID</td><td class="has-text-align-center" data-align="center">広告効果測定<br>広告配信<br>マーケティング調査・統計・分析</td></tr><tr><td class="has-text-align-center" data-align="center">OSのバージョン</td><td class="has-text-align-center" data-align="center">マーケティング調査・統計・分析<br>アプリの改善<br>お問い合わせ対応</td></tr><tr><td class="has-text-align-center" data-align="center">携帯端末の機種名</td><td class="has-text-align-center" data-align="center">マーケティング調査・統計・分析<br>アプリの改善<br>お問い合わせ対応</td></tr><tr><td class="has-text-align-center" data-align="center">利用者のアクションに関する情報</td><td class="has-text-align-center" data-align="center">ステータスの保存・引継ぎ<br>広告効果測定<br>広告配信<br>マーケティング調査・統計・分析<br>アプリの改善<br>お問い合わせ対応<br>外部サービスとの連携</td></tr><tr><td class="has-text-align-center" data-align="center">外部サービスのプライバシー設定により利用者が連携先に開示を認めた情報</td><td class="has-text-align-center" data-align="center">外部サービスとの連携</td></tr></tbody></table></figure>
+<!-- /wp:table -->
 
 <br>
 
