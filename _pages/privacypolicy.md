@@ -74,5 +74,46 @@ ChemQuiz開発チーム YAMASHITA Hiroyuki
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 5.0 通知・公表又は同意取得の方法、利用者関与の方法
+本アプリによる情報送信を停止したい場合には、本アプリをアンインストールしてください。
+
+<br>
+
+## 6.0 情報の提供
+<!-- wp:paragraph -->
+<p>【不正検知のための情報提供】</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>提供する情報： ユーザーID<br>提供目的：　不正行為防止のため<br>提供先：　Apple Inc.（iOS版）</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>【広告配信又は広告効果測定のための提供】</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>提供する情報：　ユーザーID・OSが提供する広告ID・利用者のアクションに関する情報その他広告配信のために必要な情報<br>提供目的：　広告配信・広告効果測定のため<br>提供先（外国にある提供先も含む）：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Firebase<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://firebase.google.com/?hl=ja" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://policies.google.com/privacy" target="_blank">プライバシーポリシー</a></li><li>Facebook<br>提供先：Facebook, Inc.<br><a rel="noreferrer noopener" href="http://ja.newsroom.fb.com/company-info/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.facebook.com/about/privacy" target="_blank">データポリシー</a></li><li>Facebook SDK<br>提供先：Facebook, Inc.<br>公式サイト（<a rel="noreferrer noopener" href="https://developers.facebook.com/docs/ios" target="_blank">iOS</a>）、<a rel="noreferrer noopener" href="https://www.facebook.com/privacy/explanation" target="_blank">データポリシー</a></li><li>Google AdMob<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/about/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li><li>Google Analytics<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/analytics/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li><li>Twitter<br>提供先：Twitter, Inc.<br><a rel="noreferrer noopener" href="https://about.twitter.com/ja/company" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://twitter.com/privacy" target="_blank">プライバシーポリシー</a></li></ul>
+<!-- /wp:list -->
+
+<br>
+
+## 7.0 問合せ窓口
+<!-- wp:paragraph -->
+<p>ChemQuiz開発チーム YAMASHITA Hiroyuki<br><a href="mailto:contact@yhiro.com?subject=ChemQuizへのお問い合わせ" data-type="mailto" data-id="mailto:contact@yhiro.com?subject=ChemQuizへのお問い合わせ">contact@yhiro.com</a></p>
+<!-- /wp:paragraph -->
+
+<br>
+
+## 8.0 変更を行う場合の手続
+<!-- wp:paragraph -->
+<p>当チームは、このプライバシーポリシーを随時更新することがあります。このプライバシーポリシーの変更は、本アプリ内に掲載した時点から適用されるものとします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right"} -->
+<p class="has-text-align-right">制定： 2021年1月1日</p>
+<!-- /wp:paragraph -->
