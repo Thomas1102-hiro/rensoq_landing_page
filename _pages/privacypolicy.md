@@ -114,6 +114,4 @@ ChemQuiz開発チーム YAMASHITA Hiroyuki
 <p>当チームは、このプライバシーポリシーを随時更新することがあります。このプライバシーポリシーの変更は、本アプリ内に掲載した時点から適用されるものとします。</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right">制定： 2021年1月1日</p>
-<!-- /wp:paragraph -->
+<div style="text-align: right"> 制定： 2021年1月1日 </div>
