@@ -3,7 +3,7 @@ layout: page
 title: 謝辞
 include_in_header: false
 ---
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
     <head>
         <meta charset="utf-8">
