@@ -5,15 +5,14 @@ include_in_header: true
 ---
 
 **Last updated**  
-Feb 10 2021 5.0 ユーザデータ削除方法を追記
-Jan 1 2021 制定
+June 9 2023 制定
 
 # プライバシーポリシー
 
 <br>
 
 ## 1.0 情報を取得するアプリ提供者の名称
-ChemQuiz開発チーム YAMASHITA Hiroyuki
+連想Q!開発チーム YAMASHITA Hiroyuki
 
 <br>
 
@@ -76,7 +75,7 @@ ChemQuiz開発チーム YAMASHITA Hiroyuki
 <br>
 
 ## 5.0 通知・公表又は同意取得の方法、利用者関与の方法
-本アプリによる情報送信を停止したい場合には、「プロフィール設定＞アカウントの削除」によりユーザアカウントを削除したあと、本アプリをアンインストールしてください。
+本アプリによる情報送信を停止したい場合には、本アプリをアンインストールしてください。
 
 <br>
 
@@ -98,14 +97,14 @@ ChemQuiz開発チーム YAMASHITA Hiroyuki
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Firebase<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://firebase.google.com/?hl=ja" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://policies.google.com/privacy" target="_blank">プライバシーポリシー</a></li><li>Facebook<br>提供先：Facebook, Inc.<br><a rel="noreferrer noopener" href="http://ja.newsroom.fb.com/company-info/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.facebook.com/about/privacy" target="_blank">データポリシー</a></li><li>Facebook SDK<br>提供先：Facebook, Inc.<br>公式サイト（<a rel="noreferrer noopener" href="https://developers.facebook.com/docs/ios" target="_blank">iOS</a>）、<a rel="noreferrer noopener" href="https://www.facebook.com/privacy/explanation" target="_blank">データポリシー</a></li><li>Google AdMob<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/about/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li><li>Google Analytics<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/analytics/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li><li>Twitter<br>提供先：Twitter, Inc.<br><a rel="noreferrer noopener" href="https://about.twitter.com/ja/company" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://twitter.com/privacy" target="_blank">プライバシーポリシー</a></li></ul>
+<ul><li>Firebase<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://firebase.google.com/?hl=ja" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://policies.google.com/privacy" target="_blank">プライバシーポリシー</a></li><li>Google AdMob<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/about/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li><li>Google Analytics<br>提供先：Google LLC<br><a rel="noreferrer noopener" href="https://www.google.com/analytics/" target="_blank">公式サイト</a>、<a rel="noreferrer noopener" href="https://www.google.com/intl/ja/policies/privacy/" target="_blank">プライバシーポリシー</a></li></ul>
 <!-- /wp:list -->
 
 <br>
 
 ## 7.0 問合せ窓口
 <!-- wp:paragraph -->
-<p>ChemQuiz開発チーム YAMASHITA Hiroyuki<br><a href="mailto:contact@yhiro.com?subject=ChemQuizへのお問い合わせ" data-type="mailto" data-id="mailto:contact@yhiro.com?subject=ChemQuizへのお問い合わせ">contact@yhiro.com</a></p>
+<p>連想Q!開発チーム YAMASHITA Hiroyuki<br><a href="mailto:contact@yhiro.com?subject=連想Qへのお問い合わせ" data-type="mailto" data-id="mailto:contact@yhiro.com?subject=連想Qへのお問い合わせ">contact@yhiro.com</a></p>
 <!-- /wp:paragraph -->
 
 <br>
@@ -115,4 +114,4 @@ ChemQuiz開発チーム YAMASHITA Hiroyuki
 <p>当チームは、このプライバシーポリシーを随時更新することがあります。このプライバシーポリシーの変更は、本アプリ内に掲載した時点から適用されるものとします。</p>
 <!-- /wp:paragraph -->
 
-<div style="text-align: right"> 制定： 2021年1月1日 </div>
+<div style="text-align: right"> 制定： 2023年6月9日 </div>
