@@ -59,11 +59,11 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
+topbar_title_color                        : "#badc58"
 
-cover_image                               : assets/acid11.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/bg.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.5
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
