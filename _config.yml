@@ -2,17 +2,17 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1552870530                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6450117512                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/app/id1552870530                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/id6450117512                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.yhiro.rensoq                                          # Enter Google Play Store URL.
 # presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : 高校化学ChemQuiz                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : 連想Q!                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 無料                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : いつでも、手軽に化学の学習。
+app_description                           : 連想クイズの定番！
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -25,7 +25,7 @@ your_city                                 : Tokyo
 email_address                             : contact@yhiro.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : ChemQuiz1
+twitter_username                          : JAPAN05658611
 github_username                           : Thomas1102-hiro
 youtube_username                          :
 
@@ -34,41 +34,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : ちょっとした空き時間に手軽に、無料で学習。
-    description                           : iPhone,iPad対応アプリ（Android版のリリースは現在未定）。直感で答えられるようなクイズスタイルですので、バスの待ち時間や寝る前などのちょっとした時間や、一定時間を決めて集中して学習することもできます。あなたの学習スタイルに合わせて、チャレンジしてみましょう。
-    fontawesome_icon_name                 : clock
+  - title                                 : ちょっとした時間にトリビアゲーム
+    description                           : 暇つぶしに、写真を見て連想する言葉を当てるトリビアゲーム。豆知識にもなるかも！？
+    fontawesome_icon_name                 : earth-asia
     
-  - title                                 : 高校化学の各単元別にクイズを用意。
-    description                           : 高校化学の基礎である「粒子の結合・結晶構造」から、受験前の限られた期間で知識習得が要される「芳香族炭化水素」まで、幅広い単元を用意（一部制作中の単元は除く）。苦手な単元だけを集中して学習したり、テスト範囲を全体的に復習するなど、いろんなケースに合わせて学習できます。
-    fontawesome_icon_name                 : flask
+  - title                                 : 世界の国旗、どれくらい知ってる？
+    description                           : 国旗を見て、国がわかるかな？
+    fontawesome_icon_name                 : flag-usa
 
-  - title                                 : ５種類のクイズで、いろんな角度から知識が身につく
-    description                           : 全体的に基礎問題を主に扱っています。基礎を確認したいときは正誤問題や一択問題、総合力を試したいときは組み合わせ問題、マルチ選択問題、空欄補充問題にチャレンジするなど、さまざまな角度から知識を確認できます。
-    fontawesome_icon_name                 : dumbbell
+  - title                                 : 世界遺産にも詳しくなるかも！？
+    description                           : 地域別の世界遺産クイズにも挑戦できます。今後カテゴリも追加予定。
+    fontawesome_icon_name                 : torii-gate
 
-  - title                                 : 出題はランダム形式。基礎問題も応用問題もまんべんなく。
-    description                           : 学習したい単元とクイズの種類を選択すると、１回あたりランダムに合計１０問のクイズが出題されます。間違えた場合は正解するまで再度出題されるので、より記憶に残るでしょう。解説もついているので、わからない場合は解説を見て再回答できます。解説がわかりにくい場合などは改善リクエストも受け付けています。
-    fontawesome_icon_name                 : random
-
-  - title                                 : 全国ランキングで、全国の化学学習ユーザと切磋琢磨しよう。
-    description                           : ただクイズを解くのもいいですが、スコアのウィークリーランキングシステムも搭載していますので、積極的に上位を狙えば、日々の学習へのモチベーションになるかもしれません。トップランクを獲得したり、一定の好成績を残したユーザにはちょっとしたお楽しみや特典を用意しています。
-    fontawesome_icon_name                 : trophy
-  
-  - title                                 : ライバル登録システムも搭載！近しい友人を登録すれば、お互い励みになるかも。
-    description                           : ランキングで競いあったユーザをフォローして、ライバル登録することもできます。もちろん毎日顔をあわせる知人や友人も誘ってお互い登録すれば、彼らの学習記録があなたの学習の励みになるかもしれません。
-    fontawesome_icon_name                 : users
-
-  - title                                 : 毎日の学習を継続しよう。
-    description                           : クイズ終了後には、学習経験値であるXPとともにライフを回復できるフラスコを毎回もらえます。継続学習日数が増えると、獲得フラスコ量に一定のブーストがかかります。少しずつでも、毎日の学習をキープしましょう。
-    fontawesome_icon_name                 : fire
-
-  - title                                 : リアルタイムで通知を受け取れます。
-    description                           : 通知を受け取るようにすれば、新しいクイズが追加されたときはもちろん、あなたのランキングに変動があったときや、ライバルがあなたの学習記録を抜いたときなど、リアルタイムで必要な通知を受け取れます。
-    fontawesome_icon_name                 : bell
-
-  - title                                 : クイズは定期的に追加！
-    description                           : クイズは定期的に追加していきます。突然新しいクイズに出会ったときは、力試しのつもりでチャレンジしてみましょう。また、公式ツイッター「高校化学ChemQuiz」でも定期的に情報配信していますので、ぜひフォローしてくださいね。
-    fontawesome_icon_name                 : plus
+  - title                                 : レベルが上がると、難しくなる！？
+    description                           : レベルが上がるごとに、クイズのレベルも上がっていきます。あなたはどこまで答えられるか！？
+    fontawesome_icon_name                 : turn-up
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
