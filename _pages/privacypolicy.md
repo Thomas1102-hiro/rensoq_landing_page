@@ -86,6 +86,7 @@ June 9 2023 制定
 
 <!-- wp:paragraph -->
 <p>提供する情報： ユーザーID<br>提供目的：　不正行為防止のため<br>提供先：　Apple Inc.（iOS版）</p>
+<p>提供する情報： ユーザーID<br>提供目的：　不正行為防止のため<br>提供先：　Google LLC（Android版）</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
